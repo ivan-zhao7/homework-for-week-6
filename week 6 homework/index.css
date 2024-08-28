@@ -1,0 +1,57 @@
+.body{
+    background-color: hsl(0, 0%, 90%);
+}
+.container{
+    flex-direction: column;
+}
+.welcome{
+    padding: 20px;
+}
+.lineone{
+    margin-left: 20px;
+    gap: 10px;
+    display: flex;
+    flex-direction: row;
+}
+.dont{
+    color: gray;
+}
+.create{
+    color: black;
+}
+.email{
+    margin-left: 20px;
+    padding-top: 20px;
+}
+.password{
+    margin-left: 20px;
+    padding-top: 20px;
+}
+.linetwo{
+    display: flex;
+    margin-left: 20px;
+    padding-top: 20px;
+    gap: 10px;
+    color: gray;
+}
+.remember{
+    margin-bottom: 30px;
+}
+.forgot{
+    color: black;
+    margin-left: 110px;
+}
+.sign{
+    text-align: center;
+    margin-left: 20px;
+    height: 45px;
+    width: 400px;
+    background-color: #f55266;
+    color: white;
+    border-radius: 5px;
+    border-color: #f55266;
+}
+*{
+    padding: 0px;
+    margin: 0px;
+}
